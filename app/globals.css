@@ -2,9 +2,9 @@
 
 
 @theme {
-  --color-background: #f0fdf4;
-  --color-primary: #059669;
-  --color-secondary: #10b981;
+  --color-background: #fff7ed; /* soft warm background */
+  --color-primary: #f97316;    /* vibrant orange */
+  --color-secondary: #fb923c;  /* lighter orange accent */
 }
 
 body {
